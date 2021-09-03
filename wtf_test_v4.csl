@@ -9,7 +9,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>Inclusion of access dates for all references and minor changes to the 'American Psychological Association 7th edition (curriculum vitae, sorted by descending date)' by Brenton M. Wiernik style.</summary>
-    <updated>2021-09-02T18:13:13+00:00</updated>
+    <updated>2021-09-03T09:49:24+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -442,11 +442,11 @@
         <text macro="author"/>
         <text macro="issued"/>
         <text macro="title-plus-extra" prefix=" "/>
-        <text macro="citation-locator" prefix=" "/>
         <text macro="container-title" prefix=" "/>
         <text macro="locators" prefix=" "/>
         <text macro="publisher" prefix=" "/>
         <text macro="access" prefix=" "/>
+        <text macro="citation-locator" prefix=" "/>
       </group>
     </layout>
   </citation>
